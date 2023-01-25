@@ -5,4 +5,4 @@ When requesting historical data with resolution of "D" , we can only request upt
 and incase this resolution is set to less than "D"(say "60"), we can only request for upto 100 days of data.
 This can be a severe limitation when trying to rigrously test your algorithm with multiyear data for multiple insturments.
 
-This program will help you bypass that limitation.
+This program will helps bypass that limitation.
