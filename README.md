@@ -6,3 +6,5 @@ and incase this resolution is set to less than "D"(say "60"), we can only reques
 This can be a severe limitation when trying to rigrously test your algorithm with multiyear data for multiple insturments.
 
 This program will helps bypass that limitation.
+
+enter the respective credentials in credentials.csv file.
